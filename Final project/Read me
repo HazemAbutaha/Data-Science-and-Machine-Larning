@@ -2,6 +2,5 @@ This dataset contains up-to-date information about tech company fundings across 
 This dataset can be used to identify recent trends in tech companies and the investment space.
 The dataset contains information from January 2020 and contains 3500+ company funding information. 
 The data attributes include - company name, website, funding stage, funding date, funding amount in US Dollars, and the region. 
-For more information on the values of individual fields, check out the Column Metadata.
 
-https://www.kaggle.com/shivamb/tech-company-fundings-2020-onwards/version/2
+tech_fundings.csv : The dataset
