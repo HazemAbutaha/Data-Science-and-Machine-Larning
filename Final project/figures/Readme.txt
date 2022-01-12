@@ -1,1 +1,1 @@
-Here are the some figures I found in the project
+Here are the some figures results from the project
