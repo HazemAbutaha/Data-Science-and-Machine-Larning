@@ -5,6 +5,6 @@ The data attributes include - company name, website, funding stage, funding date
 
 tech_fundings.csv : The dataset
 TechCompanyFundingGH.ipynb : The code
-
+figures : some of the figuers the result for the project
 
 I worked on this project with my team ( Zulfikar Jeddy and Mujahed Awad ) under the final project for the Data Science and Machine Learning course 
