@@ -4,3 +4,7 @@ The dataset contains information from January 2020 and contains 3500+ company fu
 The data attributes include - company name, website, funding stage, funding date, funding amount in US Dollars, and the region. 
 
 tech_fundings.csv : The dataset
+TechCompanyFundingGH.ipynb : The code
+
+
+I worked on this project with my team ( Zulfikar Jeddy and Mujahed Awad ) under the final project for the Data Science and Machine Learning course 
